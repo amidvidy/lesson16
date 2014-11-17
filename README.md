@@ -18,6 +18,6 @@ Lesson 16 - CSS Concepts Continued
  
  ![Bonus Challenge](images/lesson16bonus.png)
 
-Hint 1: There is a **text field** and a **button** on the page! 
-
-Hint 2: If you don't know how to do something, Google it! Example Google search: `button HTML`
+* Hint 1: There is a **text field** and a **button** on the page! 
+* Hint 2: One image on the page has a `border-radius` and a `border`
+* Hint 3: If you don't know how to do something, Google it! Example Google search: `button HTML`
